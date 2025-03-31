@@ -1,17 +1,20 @@
-# Corso Website
+# Vera Website
 
-Bootstrap website for training courses, workshops, seminars, etc. It has a mixed design with both light and dark colors and a modern look.
+Bootstrap Business website for software solutions, but could easily be changed to fit any business. Dark-themed design with modals and other features.
 
 <img src="./images/screen.png" />
 
 ## Features
 
-- Modern layout with custom colors/styles/backgrounds
+- Dark design with bright buttons & text for contrast
 - Responsive design
-- Sticky navbar with style changes on scroll
-- Carousel image slider
-- Register & email subscribe forms
-- Font Awesome icons
+- Replaceme script for rolling words
+- Navbar scroll effect
+- Video modal
+- Animated play button
+- Pricing grid
+- Styled modals for projects
+- Font awesome icons
 
 ## Usage
 
